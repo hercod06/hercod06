@@ -17,6 +17,7 @@
             "name": "hercod06",
             "includePath": [
                 "${workspaceFolder}/**"
+                "\xampp\htdocs\Own\hercod06\.vscode"
             ],
             "defines": [
                 "_DEBUG",
